@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0.1)
+  ),
+  linear-gradient(to bottom right, #0d1b2a, #4b0082); /* Dark Blue to Purple */
+  color: white;
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+}
